@@ -6,6 +6,7 @@ public class Test {
 		
 		System.out.println("Vått rumpehull");
 		System.out.println("Kul");
+		System.out.println("dytt");
 
 	}
 
