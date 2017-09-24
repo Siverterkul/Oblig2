@@ -1,4 +1,4 @@
-package src;
+
 
 public class Test {
 
@@ -8,7 +8,7 @@ public class Test {
 		System.out.println("Kul");
 		System.out.println("dytt");
 		System.out.println("Gøystein");
-
+		System.out.println("yo");
 	}
 
 }
